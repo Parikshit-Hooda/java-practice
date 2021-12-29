@@ -20,6 +20,8 @@ public static void main() {
 
 [Sample Java program with basic println function](https://github.com/Parikshit-Hooda/java-practice/blob/main/println.java)
 
-  
+- `javac`
+  - `javac Main.java` compiles Main.java to bytecode. Bytecode is platform-independent intermediate state of a Java program. Java bytecode files have `.class` extension. JVM converts bytecode to machine code.
+[Using javac - dummies](https://www.dummies.com/article/technology/programming-web-design/java/how-to-use-the-javac-command-172116)
   
 
