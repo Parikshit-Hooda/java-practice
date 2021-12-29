@@ -17,6 +17,9 @@ public static void main() {
 - ###### package
   - Packages are essentially a way to organize Java classes.
   - An example package: `com.basePackage.subPackage1.packageInsideSubPackage1`. Creating packages this way in a Java project creates a nested directory structure in the `/src` folder. Package names are included at the top of a `.java` program file.
+
+[Sample Java program with basic println function](https://github.com/Parikshit-Hooda/java-practice/blob/main/println.java)
+
   
   
 
